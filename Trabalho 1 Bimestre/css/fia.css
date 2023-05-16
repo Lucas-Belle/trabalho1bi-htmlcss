@@ -1,0 +1,401 @@
+body{
+    background-color: lightgray;
+}
+
+.cabeçalho{
+    background-color: rgb(22, 14, 7);
+    width:100%;
+    height: 100px;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+}
+
+.frasecabeçalho{
+    color: lightgray;
+    width: 100%;
+    font-size: 70px;
+    font-family: fantasy;
+}
+
+.fia{
+    height: 100px;
+    float: left;
+    width: 10%;
+    margin-left: 12px;
+}
+
+.formula1{
+    width: 10%;
+    height: 80px;
+    float: right;
+    margin-top: 10px;
+    margin-right: 12px;
+}
+
+.sistema{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 30%;
+    margin: auto;
+    background-color: whitesmoke;
+}
+
+.sistema1{
+    background-color: wheat;
+    height: 30px;
+    border-bottom-color: black;
+    border-bottom-style: ridge;
+    font-size: large;
+}
+
+.lugar1sist{
+    background-color: gold;
+}
+
+.lugar2sist{
+    background-color: #c0c0c0;
+}
+
+.lugar3sist{
+    background-color:#cd7f32;
+}
+
+.champs{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: auto;
+    background-color: white;
+    width: 40%;
+    height: 30px;
+}
+
+.champs1{
+    border-top-color: black;
+    border-top-style: ridge;
+    background-color: gold;
+}
+
+.champshead{
+    background-color: wheat;
+    height: 30px;
+    font-size: large;
+}
+
+.netherlands{
+    height: 13px;
+    margin-bottom: 0px;
+    margin-top: 3px;
+
+}
+
+.champs2{
+    background-color:#c0c0c0;
+}
+
+.mexico{
+    height: 13px;
+    margin-bottom: 0px;
+    margin-top: 3px;
+}
+
+.champs3{
+    background-color:#cd7f32;
+}
+
+.espanha{
+    height: 13px;
+    margin-bottom: 0px;
+    margin-top: 3px;
+}
+
+.grabretanha{
+    height: 13px;
+    margin-bottom: 0px;
+    margin-top: 3px;
+}
+
+.canada{
+    height: 13px;
+    margin-bottom: 0px;
+    margin-top: 3px;
+}
+
+.monaco{
+    height: 13px;
+    margin-bottom: 0px;
+    margin-top: 3px;
+}
+
+.alemanha{
+    height: 13px;
+    margin-bottom: 0px;
+    margin-top: 3px;
+}
+
+.frança{
+    height: 13px;
+    margin-bottom: 0px;
+    margin-top: 3px;
+}
+
+.australia{
+    height: 13px;
+    margin-bottom: 0px;
+    margin-top: 3px;
+}
+
+.finlandia{
+    height: 13px;
+    margin-bottom: 0px;
+    margin-top: 3px;
+}
+
+.china{
+    height: 13px;
+    margin-bottom: 0px;
+    margin-top: 3px;
+}
+
+.dinamarca{
+    height: 13px;
+    margin-bottom: 0px;
+    margin-top: 3px;
+}
+
+.japao{
+    height: 13px;
+    margin-bottom: 0px;
+    margin-top: 3px;
+}
+
+.eua{
+    height: 13px;
+    margin-bottom: 0px;
+    margin-top: 3px;
+}
+
+.etapas1{
+    margin: auto;
+    background-color: whitesmoke;
+    width: 30%;
+    height: 32px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.titulogpbahrein{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: 30px;
+    font-size: larger;
+    background-color: wheat;
+}
+
+.primeirobahrein{
+    background-color: gold;
+    border-top-color: black;
+    border-top-style: ridge;
+}
+
+.segundobahrein{
+    background-color: #c0c0c0;
+}
+
+.terceirobahrein{
+    background-color: #cd7f32;
+}
+
+.arabia1{
+    background-color: gold;
+    border-top-color: black;
+    border-top-style: ridge;
+}
+
+.arabia0{
+    background-color: wheat;
+    font-size: larger;
+    height: 30px;
+}
+
+.gparabia{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: auto;
+    background-color: white;
+    width: 30%;
+    height: 30px;
+}
+
+.arabia2{
+    background-color: #c0c0c0;
+}
+
+.arabia3{
+    background-color: #cd7f32;
+}
+
+.gpaustralia{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: auto;
+    background-color: white;
+    width: 30%;
+    height: 30px;
+}
+
+.gpaustralia1{
+    background-color: wheat;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: 30px;
+    font-size: larger;
+}
+
+.gpaustralia2{
+    background-color: gold;
+    border-top-color: black;
+    border-top-style: ridge;
+}
+
+.gpaustralia3{
+    background-color: #c0c0c0;
+}
+
+.gpaustralia4{
+    background-color: #cd7f32;
+}
+
+.reinounido{
+    height: 13px;
+    margin-bottom: 0px;
+    margin-top: 3px;
+}
+
+.equipeetapa0{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: auto;
+    background-color: white;
+    width: 50%;
+    height: 30px;
+}
+
+.equipeetapa1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: 30px;
+    font-size: larger;
+    border-bottom-color: black;
+    border-bottom-style: ridge;
+    background-color: wheat;
+}
+
+.equipeetapa2{
+    font-size: larger;
+    border-bottom-style: ridge;
+    border-bottom-color: black;
+}
+
+.equipeetapa3{
+    background-color: gold;
+    height: 40px;
+}
+
+.equipeetapa4{
+    background-color: #c0c0c0;
+    height: 40px;
+}
+ .equipeetapa5{
+    background-color: #cd7f32;
+    height: 40px;
+ }
+ 
+ .equipeetapa6{
+    height: 40px;
+ }
+
+ .equipeetapa7{
+    height: 40px;
+ }
+ 
+ .equipeetapa8{
+    height: 40px;
+ }
+
+ .equipeetapa9{
+    height: 40px;
+ }
+
+ .equipeetapa10{
+    height: 40px;
+ }
+
+ .equipeetapa11{
+    height: 40px;
+ }
+
+ .equipeetapa12{
+    height: 40px;
+ }
+
+ .rbr{
+    height: 14px;
+    margin-bottom: 0px;
+    margin-top: 3px;
+ }
+
+ .astonmartinmercedes{
+    height: 14px;
+    margin-bottom: 0px;
+    margin-top: 3px;
+ }
+ 
+ .mercedes{
+    height: 14px;
+    margin-bottom: 0px;
+    margin-top: 3px;
+ }
+
+.ferrari{
+    height: 14px;
+    margin-bottom: 0px;
+    margin-top: 3px;
+}
+
+.mclarenmercedes{
+    height: 14px;
+    margin-bottom: 0px;
+    margin-top: 3px;
+}
+
+.alpinerenault{
+    height: 14px;
+    margin-bottom: 0px;
+    margin-top: 3px;
+}
+
+.haasferrari{
+    height: 14px;
+    margin-bottom: 0px;
+    margin-top: 3px;
+}
+
+.alfaromeoracing{
+    height: 14px;
+    margin-bottom: 0px;
+    margin-top: 3px;
+}
+
+.alphatauri{
+    height: 14px;
+    margin-bottom: 0px;
+    margin-top: 3px;
+}
+
+.williams{
+    height: 14px;
+    margin-bottom: 0px;
+    margin-top: 3px;
+}
+
+.nomes{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(241, 241, 62);
+    font-size: 19px;
+}
+
+.tabelatotal{
+    width: 80px;
+}
